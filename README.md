@@ -1,4 +1,3 @@
-# tryhackme-writeups
 # Cybersecurity Learning Portfolio
 
 This repository documents my hands-on cybersecurity labs and notes while learning security operations and blue team concepts.
