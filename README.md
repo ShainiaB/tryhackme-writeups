@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-![TryHackMe Badge](https://www.tryhackme.com/badge/image/<niabessellieu>)
+https://tryhackme.com/dashboard?badge=niabessellieu:first-4-rooms
 
 This repository contains my notes and writeups from rooms I complete on TryHackMe while learning cybersecurity.
 
