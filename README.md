@@ -5,7 +5,13 @@
 Welcome to my cybersecurity learning portfolio! This repository contains notes and writeups from TryHackMe rooms I’ve completed while building hands-on cybersecurity skills.
 
 ## About Me
-I am a cybersecurity enthusiast focused on **cybercrime investigation and digital forensics**. I document all my labs to track progress and showcase practical experience in both defensive and offensive security.
+## About Me
+I am a cybersecurity student at WGU, pursuing a Bachelors in Cybersecurity and Information Assurance.  
+I am passionate about **cybercrime investigation and digital forensics**, and I document my hands-on labs from TryHackMe to build practical skills.  
+
+As I progress through my degree, I will also include **academic labs and projects** from WGU, demonstrating both hands-on experience and formal education.  
+
+My goal is to become a skilled **cybercrime investigator**, combining practical knowledge, academic training, and real-world problem-solving to fight cyber threats.
 
 ## Platform
 - [TryHackMe](https://tryhackme.com/)
