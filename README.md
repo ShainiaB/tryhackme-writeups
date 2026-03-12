@@ -1,23 +1,16 @@
-# Cybersecurity Learning Portfolio
+# TryHackMe Writeups
 
-This repository documents my hands-on cybersecurity labs and notes while learning security operations and blue team concepts.
+This repository contains my notes and writeups from rooms I complete on TryHackMe while learning cybersecurity.
 
-## Platforms
+## About Me
+
+I am currently learning cybersecurity and documenting my hands-on labs as I build practical security skills.
+
+## Platform
 
 * TryHackMe
 
-## Current Focus
-
-* Security Operations Center (SOC)
-* Network analysis
-* Threat detection
-* Incident response
-
-## Lab Writeups
-
-Hands-on rooms completed from TryHackMe documenting concepts, commands, and security tools.
-
 ## Goal
 
-Build practical cybersecurity skills and prepare for a SOC Analyst role.
+My goal is to develop skills in cybersecurity and eventually specialize in cybercrime investigation and digital forensics.
 
